@@ -16,7 +16,7 @@ This Python-based Vulnerability Scanner is a comprehensive tool designed for sec
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/vulnerability-scanner.git
+   git clone https://github.com/softwarica-github/coursework1-GxbNt.git
    ```
 
 2. **Install Dependencies:**
@@ -26,7 +26,7 @@ This Python-based Vulnerability Scanner is a comprehensive tool designed for sec
 
 3. **Run the Scanner:**
    ```bash
-   python vulnerability_scanner.py
+   python Main.py
    ```
 
 4. **Follow the On-Screen Instructions:**
