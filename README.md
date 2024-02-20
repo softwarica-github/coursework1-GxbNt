@@ -37,5 +37,7 @@ This Python-based Vulnerability Scanner is a comprehensive tool designed for sec
 - Payloads for different vulnerabilities are stored in the `Payloads` directory.
 - Modify the configuration files and banner in the `Config` directory according to your preferences.
 
+## Author
+Bishal Ray
 
 
