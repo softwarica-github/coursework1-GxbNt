@@ -1,6 +1,6 @@
 ## Overview
 
-This Python-based Vulnerability Scanner is a comprehensive tool designed for security testing of web applications. It includes modules for testing various vulnerabilities such as Cross-Site Scripting (XSS), SQL Injection, Remote Code Execution (RCE), Server-Side Template Injection (SSTI), Open Redirection, and Clickjacking.
+This Python-based Vulnerability Scanner is a comprehensive tool designed for security testing of web applications.
 
 ## Features
 
